@@ -4,7 +4,8 @@
   "description": "My first attempt on the learnyounode tutorial",
   "main": "1.js",
   "dependencies": {
-    "bl": "^0.9.3"
+    "bl": "^0.9.3",
+    "concat-stream": "^1.4.7"
   },
   "devDependencies": {},
   "scripts": {
