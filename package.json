@@ -1,0 +1,23 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "My first attempt on the learnyounode tutorial",
+  "main": "1.js",
+  "dependencies": {
+    "bl": "^0.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gajjargaurav/learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gajjargaurav/learnyounode/issues"
+  },
+  "homepage": "https://github.com/gajjargaurav/learnyounode"
+}
