@@ -4,6 +4,7 @@
   "description": "My first attempt on the learnyounode tutorial",
   "main": "1.js",
   "dependencies": {
+    "async": "^0.9.0",
     "bl": "^0.9.3",
     "concat-stream": "^1.4.7"
   },
